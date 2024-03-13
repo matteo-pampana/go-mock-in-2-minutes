@@ -10,4 +10,3 @@ go test -v ./...
 
 ---
 Created With ❤️ by [**@matteo.pampana**](https://www.linkedin.com/in/matteopampana/)
-```
